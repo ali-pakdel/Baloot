@@ -1,0 +1,6 @@
+[submodule "Baloot-Backend"]
+	path = Baloot-Backend
+	url = https://github.com/ali-pakdel/Baloot-Backend.git
+[submodule "Baloot-Frontend"]
+	path = Baloot-Frontend
+	url = https://github.com/ali-pakdel/Baloot-Frontend.git
